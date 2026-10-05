@@ -1,0 +1,20 @@
+{
+  "name": "hbkse",
+  "description": "Claude Code plugins and mods by hbkse.",
+  "owner": {
+    "name": "hbkse",
+    "url": "https://github.com/hbkse"
+  },
+  "plugins": [
+    {
+      "name": "anki",
+      "source": {
+        "source": "github",
+        "repo": "hbkse/anki-claude-mod"
+      },
+      "description": "Review your AnkiWeb decks above the Claude Code prompt while Claude works. Syncs straight with AnkiWeb; no Anki desktop needed.",
+      "homepage": "https://github.com/hbkse/anki-claude-mod",
+      "keywords": ["anki", "ankiweb", "flashcards", "spaced-repetition", "mod"]
+    }
+  ]
+}
